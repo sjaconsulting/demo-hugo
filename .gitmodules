@@ -1,9 +1,0 @@
-[submodule "themes/github-style"]
-	path = themes/github-style
-	url = git@github.com:MeiK2333/github-style.git
-[submodule "themes/PaperMod"]
-	path = themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
-[submodule "themes/beautifulhugo"]
-	path = themes/beautifulhugo
-	url = https://github.com/halogenica/beautifulhugo.git
