@@ -1,0 +1,35 @@
+baseURL = "https://www.pixypunky.com/"
+languageCode = "en-us"
+title = "Pixy Punky"
+theme = "github-style"
+googleAnalytics = ""
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Pixy Punky"
+  description = "Demo Site"
+  github = "pixypunky"
+  facebook = "pixypunky"
+  twitter = "pixypunky"
+  linkedin = "pixypunky"
+  instagram = "pixypunky"
+  tumblr = "pixypunky"
+  email = "info@pixypunky.com"
+  url = "https://www.pixypunky.com"
+  keywords = "demo, test"
+  rss = true
+  lastmod = true
+  favicon = "/images/github.png"
+  location = ""
+
+  [[params.links]]
+    title = "Code"
+    href = "https://github.com/sjaconsulting/demo-hugo"
+  [[params.links]]
+    title = "Website"
+    href = "https://www.pixypunky.com"
+    icon = "/images/avatar.png"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
