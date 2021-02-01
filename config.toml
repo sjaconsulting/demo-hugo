@@ -1,22 +1,22 @@
-baseURL = "https://www.pixypunky.com/"
+baseURL = "https://demo-hugo.pages.dev/"
 languageCode = "en-us"
-title = "PixyPunky Demo"
+title = "Hugo Demo"
 theme = "github-style"
 googleAnalytics = ""
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  author = "PixyPunky"
+  author = "Hugo"
   description = "Demo Site"
-  github = "pixypunky"
-  facebook = "pixypunky"
-  twitter = "pixypunky"
-  linkedin = "pixypunky"
-  instagram = "pixypunky"
-  tumblr = "pixypunky"
-  email = "info@pixypunky.com"
-  url = "https://www.pixypunky.com"
+  github = "hugodemo"
+  facebook = "hugodemo"
+  twitter = "hugodemo"
+  linkedin = "hugodemo"
+  instagram = "hugodemo"
+  tumblr = "hugodemo"
+  email = "info@demo-hugo.pages.dev"
+  url = "https://demo-hugo.pages.dev"
   keywords = "code"
   rss = true
   lastmod = true
@@ -28,7 +28,7 @@ pygmentsUseClasses = true
     href = "https://github.com/sjaconsulting/demo-hugo"
   [[params.links]]
     title = "Website"
-    href = "https://www.pixypunky.com"
+    href = "https://demo-hugo.pages.dev"
     icon = "/images/avatar.png"
 
 [frontmatter]
